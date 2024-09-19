@@ -1,0 +1,18 @@
+body {
+    background-color: #ffffff;
+    color: #333333;
+    font-size: 1rem;  
+}
+  
+  button {
+    background-color: #10539bd5;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+  
+  button:focus {
+    outline: 2px solid #000;
+}
+  

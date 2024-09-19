@@ -1,0 +1,22 @@
+
+body {
+    background-color: antiquewhite;
+    height: 100vh;
+    display: flex;
+}
+
+main {
+    background-color: aliceblue;
+    height: 520px;
+    width: 800px;
+    display: flex;
+    margin: auto;
+}
+
+aside {
+    height: 18rem;
+    width: 18rem;
+    margin: auto;
+    border-radius: 999rem;;
+    background: red;
+}

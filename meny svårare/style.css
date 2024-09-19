@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    height: 4rem;
+    align-items: center;
+    justify-content: flex-end;
+    background: #ccc;
+    color: #666;
+}
+
+
+img {
+    height: 50%;
+    margin: auto auto auto 1rem;
+}
+
+
+nav a {
+    display: flex;
+    flex-direction: row; 
+    margin: 1rem;
+    
+}

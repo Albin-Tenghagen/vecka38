@@ -1,0 +1,21 @@
+nav {
+    max-width: 1000px;
+    height: 3rem;
+    border: 3px dashed blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav a {
+    margin: 1rem;
+
+}
+img {
+    margin: auto auto auto 1rem;
+}
+
+.login {
+    align-self: flex-end;
+    margin: 1rem auto auto auto;
+    border-radius: 20rem 1rem;
+}

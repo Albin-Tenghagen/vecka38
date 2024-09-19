@@ -1,0 +1,40 @@
+body {
+font-family: 'Courier New', Courier, monospace;
+padding: 20px;
+margin: 0;
+}
+
+.container {
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-rows: 100px 200px;
+    grid-template-areas: 
+    "header header header"
+
+    "sidebar content content"
+    ;
+    gap: 20px;
+
+}
+
+.header {
+    background-color: yellow;
+    grid-area: header;
+}
+
+.sidebar {
+    background-color: green;
+    grid-area: sidebar;
+}
+
+.content {
+    background-color: red;
+    grid-area: content
+
+}
+
+.footer {
+    background-color: purple;
+    grid-area: footer;
+}

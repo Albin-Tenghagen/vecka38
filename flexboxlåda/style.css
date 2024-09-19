@@ -15,10 +15,10 @@ bode {
 }
 
 .flex-item {
-    background-color: yellow;
-    height: ;
-    width: ;
-    border: 2px dashed black;
-    padding: 1px;
-    margin: ;
+  background-color: yellow;
+  height: 70px;
+  width: 100px;
+  border: 2px dashed black;
+  padding: 10px;
+  margin: 0px;
 }
